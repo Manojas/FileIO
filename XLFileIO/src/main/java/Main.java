@@ -17,7 +17,7 @@ public class Main {
 		boolean exit =false;
 		do {
 			switch (menu) {
-			case 1:
+			case 1://csome change
 				try {
 					new Operations().writToNotePAd();
 				} catch (IOException e) {
